@@ -1,7 +1,7 @@
 # 🚀 Гайд: «Как захватить трафик поисковиков и соцсетей одним ударом»
 
 - **Оригинальная статья:** https://toxadab.ru/works/trafik-statey/  
-- **JSON‑выжимка для LLM:**  
+- **JSON‑выжимка**  
   https://raw.githubusercontent.com/toxadab/blog/main/trafik-poisk-socseti/data/trafic_of_articles.jsonl  
 
 ## Что внутри
@@ -9,7 +9,7 @@
 одновременно из Google/Яндекса и соцсетей (Дзен, Telegram, VK).
 
 <details>
-<summary>Schema.org Dataset (для краулеров)</summary>
+<summary>Schema.org Dataset</summary>
 
 ```html
 <script type="application/ld+json">
