@@ -1,7 +1,7 @@
 🚀 Исследование: «Три вектора, BlockNet и PoC»
 
 - Оригинальная статья: [https://toxadab.ru/works/tri-vektora-blocknet-poc/](https://toxadab.ru/works/tri-vektora-blocknet-poc/)
-- JSON-выжимка: [https://raw.githubusercontent.com/toxadab/blog/main/tri_vect_blocknet_poc/data/tri_vect_blocknet_poc.json](https://raw.githubusercontent.com/toxadab/blog/main/data/tri_vect_blocknet_poc.json)
+- JSON-выжимка: [https://raw.githubusercontent.com/toxadab/blog/main/tri_vect_blocknet_poc/data/tri_vect_blocknet_poc.json](https://raw.githubusercontent.com/toxadab/blog/main/tri_vect_blocknet_poc/data/tri_vect_blocknet_poc.json)
 
 ### Что внутри
 Философский и технологический анализ трёх цивилизационных векторов:  
